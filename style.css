@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    width: 1365px;
+    margin: 0%;
+    position: relative;
+    color: #0a0a0a;
+
+}
+
+.cabecalho-imagem{
+    width: 100%;
+}
+
+.cardapio{
+    position: absolute;
+    top:40%;
+    left:80%;
+    text-align: center;
+    transition: translate(60%,40%);
+   color: black;
+   font-family: 'Lobster', cursive;
+   font-size: 30px;
+}
+
